@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: mdhack/hcl
+        image: mdhack/mayank:dev-frontend-acb3e35
         ports:
         - containerPort: 80
